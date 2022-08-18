@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+      <gtin>1234125647954</gtin>
+        <brand>Contain Haus</brand>
+   <link>https://joyful-cranachan-f66847.netlify.app/assets/img/ShopDeutsch/SPECIALGLASS/masarawi/1.webp</link>
+    <image_link>https://joyful-cranachan-f66847.netlify.app/assets/img/ShopDeutsch/SPECIALGLASS/masarawi/1.webp</image_link>
+    <title>Black Panter</title>
+     <condition>new</condition>
+        <availability>in stock</availability>
+  <price> 29.000,00 </price>
+    <description> 3 x Oda, 1x Cam giriş kapısı, 1x Standart giriş kapısı,2x Pencere, 4 x Tavandan tabana pencereler, Standart pencere, 2 x Küçük pencere  </description>
+  </row>
+  <row>
+    <id>2</id>
+      <gtin>4234928647954</gtin>
+        <brand>Contain Haus</brand>
+     <condition>new</condition>
+        <availability>in stock</availability>
+         <link>https://joyful-cranachan-f66847.netlify.app/assets/img/ShopDeutsch/BLACKDIAMOND/1.webp</link>
+    <image_link>https://joyful-cranachan-f66847.netlify.app/assets/img/ShopDeutsch/BLACKDIAMOND/1.webp</image_link>
+    <title>Black Diamond</title>
+   <price>8.500,00</price>
+    <description> 1x Oda, 1x Giriş, 2x Pencere </description>
+  </row> 
+</root>
