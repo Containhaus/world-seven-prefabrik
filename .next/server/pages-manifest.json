@@ -2,9 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/yasam-konteyner": "pages/yasam-konteyner.js",
-  "/ofis-konteyner": "pages/ofis-konteyner.js",
-  "/hakkimizda": "pages/hakkimizda.js",
+  "/": "pages/index.js",
   "/markalarimiz": "pages/markalarimiz.js",
-  "/shop/[slug]": "pages/shop/[slug].js"
+  "/hakkimizda": "pages/hakkimizda.js"
 }
